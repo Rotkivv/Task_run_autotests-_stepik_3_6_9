@@ -1,4 +1,4 @@
-# Task_run_autotests-_stepik_3_6_9
+# Task_run_autotests_stepik_3_6_9
 Task: run autotests for different interface languages
 https://stepik.org/lesson/237240/step/9?unit=209628
 
